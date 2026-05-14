@@ -1,0 +1,17 @@
+# deps
+node_modules/
+
+# next
+.next/
+out/
+
+# env
+.env.local
+.env*.local
+
+# ai spec files
+Ai.md
+Ai2.md
+
+# misc
+*.tsbuildinfo
